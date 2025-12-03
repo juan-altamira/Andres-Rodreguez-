@@ -19,7 +19,9 @@
 
 @layer components {
 	.btn-primary {
-		@apply bg-[#F97316] text-white font-semibold px-8 py-4 rounded-full text-lg transition-all duration-300 hover:bg-[#EA580C] hover:scale-105 cursor-pointer border-0;
+		@apply inline-block bg-[#F97316] text-white font-semibold px-6 py-3 rounded-full text-base md:text-lg transition-all duration-300 hover:bg-[#EA580C] hover:scale-105 cursor-pointer border-0;
+		white-space: nowrap;
+		text-align: center;
 	}
 	
 	.btn-primary:hover {
@@ -31,6 +33,6 @@
 	}
 	
 	.section-container {
-		@apply max-w-6xl mx-auto px-6 py-20;
+		@apply max-w-6xl mx-auto px-6 py-10 md:py-20;
 	}
 }

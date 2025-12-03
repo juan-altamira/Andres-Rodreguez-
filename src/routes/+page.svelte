@@ -46,7 +46,7 @@
 </section>
 
 <!-- "Esto es para vos si..." Section -->
-<section id="para-vos" class="bg-[#111117] py-20">
+<section id="para-vos" class="bg-[#111117] py-10 md:py-20">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-12 text-center">
 			Este programa es para vos si…
@@ -87,7 +87,7 @@
 </section>
 
 <!-- Historias de cambio real -->
-<section id="historias" class="py-20 bg-gradient-to-b from-[#0B0B0F] to-[#111117]">
+<section id="historias" class="py-10 md:py-20 bg-gradient-to-b from-[#0B0B0F] to-[#111117]">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-6 text-center">
 			Cambios reales de personas reales
@@ -164,7 +164,7 @@
 </section>
 
 <!-- Qué vas a conseguir -->
-<section class="py-20 bg-[#111117]">
+<section class="py-10 md:py-20 bg-[#111117]">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-6 text-center">
 			Qué podés conseguir con este programa
@@ -215,7 +215,7 @@
 </section>
 
 <!-- Cómo funciona el programa -->
-<section class="py-20 bg-gradient-to-b from-[#0B0B0F] to-[#111117]">
+<section class="py-10 md:py-20 bg-gradient-to-b from-[#0B0B0F] to-[#111117]">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-16 text-center">
 			Cómo funciona el programa, paso a paso
@@ -301,7 +301,7 @@
 </section>
 
 <!-- Qué incluye exactamente -->
-<section class="py-20 bg-[#111117]">
+<section class="py-10 md:py-20 bg-[#111117]">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-12 text-center">
 			Qué incluye el programa
@@ -353,7 +353,7 @@
 </section>
 
 <!-- Quién es Andrés -->
-<section class="py-20 bg-gradient-to-b from-[#0B0B0F] to-[#111117]">
+<section class="py-10 md:py-20 bg-gradient-to-b from-[#0B0B0F] to-[#111117]">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-12 text-center">
 			Quién te acompaña en este proceso
@@ -391,7 +391,7 @@
 </section>
 
 <!-- FAQ Section -->
-<section class="py-20 bg-[#111117]">
+<section class="py-10 md:py-20 bg-[#111117]">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-16 text-center">
 			Preguntas frecuentes
@@ -450,7 +450,7 @@
 </section>
 
 <!-- Final CTA Section -->
-<section class="py-32 bg-gradient-to-b from-[#0B0B0F] via-[#1a1a1f] to-[#0B0B0F] relative overflow-hidden">
+<section class="py-16 md:py-32 bg-gradient-to-b from-[#0B0B0F] via-[#1a1a1f] to-[#0B0B0F] relative overflow-hidden">
 	<div class="absolute inset-0 bg-[radial-gradient(circle_at_70%_50%,rgba(249,115,22,0.15),transparent_70%)]"></div>
 	<div class="section-container text-center relative z-10">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl lg:text-6xl mb-8 max-w-4xl mx-auto leading-tight">
@@ -460,10 +460,9 @@
 			Si querés un cambio como los que viste arriba y sentís que solo te falta una guía clara y un acompañamiento serio, el siguiente paso es simple:
 		</p>
 		
-		<a href="https://www.instagram.com/andresgareth39/" target="_blank" rel="noopener noreferrer" class="btn-primary mb-6 text-xl">
+		<a href="https://www.instagram.com/andresgareth39/" target="_blank" rel="noopener noreferrer" class="btn-primary mb-6 text-base md:text-xl max-w-[90%] mx-auto">
 			Quiero hablar con Andrés sobre el programa
 		</a>
-		
 		
 	</div>
 </section>
