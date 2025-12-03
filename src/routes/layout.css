@@ -20,7 +20,6 @@
 @layer components {
 	.btn-primary {
 		@apply inline-block bg-[#F97316] text-white font-semibold px-6 py-3 rounded-full text-base md:text-lg transition-all duration-300 hover:bg-[#EA580C] hover:scale-105 cursor-pointer border-0;
-		white-space: nowrap;
 		text-align: center;
 	}
 	

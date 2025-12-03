@@ -13,7 +13,7 @@
 	<div class="absolute inset-0 bg-[radial-gradient(circle_at_30%_50%,rgba(249,115,22,0.1),transparent_70%)]"></div>
 	<div class="section-container text-center relative z-10">
 		<h1 class="font-['Poppins'] font-bold text-5xl md:text-6xl lg:text-7xl mb-6 bg-gradient-to-r from-white via-white to-orange-200 bg-clip-text text-transparent leading-tight animate-fade-in">
-			Transformá tu cuerpo y tu mente con un programa guiado paso a paso
+			Transforma tu cuerpo y tu mente con un programa guiado paso a paso
 		</h1>
 		<p class="font-['Inter'] text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
 			Para personas que están cansadas de probar rutinas sueltas, dietas extremas o motivación de una semana… y quieren un cambio real como los que ves aquí abajo.
@@ -49,39 +49,39 @@
 <section id="para-vos" class="bg-[#111117] py-10 md:py-20">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-12 text-center">
-			Este programa es para vos si…
+			Este programa es para ti si…
 		</h2>
 		
 		<div class="grid md:grid-cols-2 gap-6 max-w-4xl mx-auto">
 			<div class="bg-[#1a1a1f] p-6 rounded-2xl border border-gray-800 hover:border-[#F97316] transition-all duration-300 hover:scale-105">
 				<p class="text-lg text-gray-300">
-					Sentís que probaste de todo y siempre volvés al mismo punto.
+					Sientes que probaste de todo y siempre vuelves al mismo punto.
 				</p>
 			</div>
 			<div class="bg-[#1a1a1f] p-6 rounded-2xl border border-gray-800 hover:border-[#F97316] transition-all duration-300 hover:scale-105">
 				<p class="text-lg text-gray-300">
-					Empezás motivado, pero a la segunda semana perdés el foco.
+					Empiezas motivado, pero a la segunda semana pierdes el foco.
 				</p>
 			</div>
 			<div class="bg-[#1a1a1f] p-6 rounded-2xl border border-gray-800 hover:border-[#F97316] transition-all duration-300 hover:scale-105">
 				<p class="text-lg text-gray-300">
-					Te cansaste de rutinas genéricas de internet que no están hechas para vos.
+					Te cansaste de rutinas genéricas de internet que no están hechas para ti.
 				</p>
 			</div>
 			<div class="bg-[#1a1a1f] p-6 rounded-2xl border border-gray-800 hover:border-[#F97316] transition-all duration-300 hover:scale-105">
 				<p class="text-lg text-gray-300">
-					Querés cambiar tu físico, pero también tu cabeza y tu forma de mirarte.
+					Quieres cambiar tu físico, pero también tu cabeza y tu forma de mirarte.
 				</p>
 			</div>
 			<div class="bg-[#1a1a1f] p-6 rounded-2xl border border-gray-800 hover:border-[#F97316] transition-all duration-300 hover:scale-105 md:col-span-2">
 				<p class="text-lg text-gray-300">
-					Valorás tener a alguien que te diga qué hacer y te acompañe en el proceso.
+					Valoras tener a alguien que te diga qué hacer y te acompañe en el proceso.
 				</p>
 			</div>
 		</div>
 		
 		<p class="text-center text-xl md:text-2xl font-semibold text-[#F97316] mt-12">
-			Si leíste esto y pensaste "ese soy yo", seguí leyendo.
+			Si leíste esto y pensaste "ese soy yo", sigue leyendo.
 		</p>
 	</div>
 </section>
@@ -167,10 +167,10 @@
 <section class="py-10 md:py-20 bg-[#111117]">
 	<div class="section-container">
 		<h2 class="font-['Poppins'] font-bold text-4xl md:text-5xl mb-6 text-center">
-			Qué podés conseguir con este programa
+			Qué puedes conseguir con este programa
 		</h2>
 		<p class="text-center text-xl text-gray-300 mb-12 max-w-3xl mx-auto">
-			Cada proceso es distinto, pero hay patrones que se repiten cuando entrenás con un plan y un acompañamiento real.
+			Cada proceso es distinto, pero hay patrones que se repiten cuando entrenas con un plan y un acompañamiento real.
 		</p>
 		
 		<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
@@ -262,7 +262,7 @@
 				<div class="flex-grow bg-[#1a1a1f] p-6 rounded-2xl border border-gray-800 group-hover:border-[#F97316] transition-all duration-300">
 					<h3 class="font-['Poppins'] font-bold text-2xl mb-3 text-[#F97316]">Acompañamiento y ajustes</h3>
 					<p class="text-lg text-gray-300 leading-relaxed">
-						No quedás solo con un PDF: hay seguimiento, revisión de progresos y ajustes según cómo vas respondiendo.
+						No te quedas solo con un PDF: hay seguimiento, revisión de progresos y ajustes según cómo vas respondiendo.
 					</p>
 				</div>
 			</div>
@@ -292,7 +292,7 @@
 				<div class="flex-grow bg-[#1a1a1f] p-6 rounded-2xl border border-gray-800 group-hover:border-[#F97316] transition-all duration-300">
 					<h3 class="font-['Poppins'] font-bold text-2xl mb-3 text-[#F97316]">Cierre del ciclo y nuevo objetivo</h3>
 					<p class="text-lg text-gray-300 leading-relaxed">
-						Cuando llegás a tu primer gran cambio, se ajustan metas y se define el siguiente paso, en vez de volver atrás.
+						Cuando llegas a tu primer gran cambio, se ajustan metas y se define el siguiente paso, en vez de volver atrás.
 					</p>
 				</div>
 			</div>
@@ -417,7 +417,7 @@
 				</summary>
 				<div class="px-6 pb-6">
 					<p class="text-lg text-gray-400 leading-relaxed">
-						Se define según tu contexto. Mejor 3 días constantes que 6 días que abandonás. El programa prioriza lo que realmente podés sostener.
+						Se define según tu contexto. Mejor 3 días constantes que 6 días que abandonas. El programa prioriza lo que realmente puedes sostener.
 					</p>
 				</div>
 			</details>
@@ -457,7 +457,7 @@
 			Si estás cansado de empezar cada lunes y abandonar, este puede ser tu punto de quiebre
 		</h2>
 		<p class="text-xl md:text-2xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-			Si querés un cambio como los que viste arriba y sentís que solo te falta una guía clara y un acompañamiento serio, el siguiente paso es simple:
+			Si quieres un cambio como los que viste arriba y sientes que solo te falta una guía clara y un acompañamiento serio, el siguiente paso es simple:
 		</p>
 		
 		<a href="https://www.instagram.com/andresgareth39/" target="_blank" rel="noopener noreferrer" class="btn-primary mb-6 text-base md:text-xl max-w-[90%] mx-auto">
