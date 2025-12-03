@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	html {
+		scroll-behavior: smooth;
+	}
+	
+	body {
+		font-family: 'Inter', sans-serif;
+		background-color: #0B0B0F;
+		color: #F9FAFB;
+		margin: 0;
+	}
+}
+
+@layer components {
+	.btn-primary {
+		@apply bg-[#F97316] text-white font-semibold px-8 py-4 rounded-full text-lg transition-all duration-300 hover:bg-[#EA580C] hover:scale-105 cursor-pointer border-0;
+	}
+	
+	.btn-primary:hover {
+		box-shadow: 0 25px 50px -12px rgba(249, 115, 22, 0.5);
+	}
+	
+	.btn-secondary {
+		@apply text-[#F97316] font-semibold underline hover:text-[#EA580C] transition-colors duration-200 bg-transparent border-0 cursor-pointer;
+	}
+	
+	.section-container {
+		@apply max-w-6xl mx-auto px-6 py-20;
+	}
+}
